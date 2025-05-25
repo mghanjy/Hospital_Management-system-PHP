@@ -6,7 +6,7 @@
                         <table border="0" class="profile-container">
                             <h1>حساب طبيب</h1><tr>
                                 <td width="30%" style="padding-left:20px" >
-                                    <img src="../img/user.png" alt="" width="100%" style="border-radius:50%">
+                                    <img src="../img/doic.png" alt="" width="100%" style="border-radius:50%">
                                 </td>
                                 <td style="padding:0px;margin:0px;">
                                     <p class="profile-title"><?php echo substr($username,0,22)  ?></p>
