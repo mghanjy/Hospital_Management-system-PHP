@@ -53,7 +53,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
 | -------| -------| -------|
 | Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
 | Password: `123` |  Password: `123` |  Password: `123` |
-| ![](https://github.com/mghanjy/Hospital_Management-system-PHP/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  |
+| ![](https://github.com/mghanjy/Hospital_Management-system-PHP/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/mghanjy/Hospital_Management-system-PHP/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/mghanjy/Hospital_Management-system-PHP/blob/main/Screenshots/Screenshot%20(6).png)  |
 
  
   
