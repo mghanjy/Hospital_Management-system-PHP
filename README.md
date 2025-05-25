@@ -49,11 +49,11 @@ This project helps a certain medical establishment such as a clinic or a hospita
   - Edit account settings    
 
     
-| Admin Dashboard  | Doctor Dashboard | Patient Dashboard |
-| ------- | -------| -------|
-| Email: `admin@edoc.com`  | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
-| Password: `123`  |  Password: `123` |  Password: `123` |
-|  ![](https://github.com/mghanjy/Hospital_Management-system-PHP/blob/main/Screenshots/Sshot%203.png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  |
+| Admin Dashboard | Doctor Dashboard | Patient Dashboard |
+| -------| -------| -------|
+| Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
+| Password: `123` |  Password: `123` |  Password: `123` |
+| ![](https://github.com/mghanjy/Hospital_Management-system-PHP/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  |
 
  
   
