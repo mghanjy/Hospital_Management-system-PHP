@@ -17,7 +17,7 @@ include_once 'inclued/header.php';
 						فريق المتخصصين في الرعاية الصحية لدينا مكرس لضمان حصول كل شخص يأتي عبر أبوابنا على الرعاية والدعم الئي تحتاجون الية 
 					</p>
 					<div class="btn-container ">
-						<a href="../edoc-doctor-appointment-system-main/index.php" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">قم بحجز موعد الان <i class="icofont-simple-right ml-2  "></i></a>
+						<a href="../index.php" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">قم بحجز موعد الان <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>

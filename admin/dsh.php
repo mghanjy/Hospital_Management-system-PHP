@@ -9,7 +9,7 @@
                                     <img src="../img/user.jpg" alt="" width="100%" style="border-radius:50%">
                                 </td>
                                 <td style="padding:0px;margin:0px;">
-                                    <p class="profile-title">المستخدم</p>
+                                    <p class="profile-title">Administrator</p>
                                     <p class="profile-subtitle">admin@edoc.com</p>
                                 </td>
                             </tr>
